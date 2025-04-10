@@ -1,4 +1,4 @@
-# 🧪 Projet Présentation à la Recherche
+# Projet Présentation à la Recherche
 
 ## Analyse Expérimentale et Benchmarking de Modèles et Algorithmes d'IA
 
